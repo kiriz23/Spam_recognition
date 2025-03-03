@@ -1,0 +1,20 @@
+chat,transfer,card,winner,not spam
+chat,transfer,winner,house,spam
+house,name,diplomat,transfer,spam
+market,house,credit,transfer,spam
+winner,credit,transfer,chat,spam
+diplomat,credit,card,winner,not spam
+name,chat,house,greetings,spam
+name,credit,diplomat,winner,spam
+winner,house,card,transfer,not spam
+chat,transfer,winner,greetings,spam
+winner,name,credit,card,not spam
+winner,credit,house,chat,spam
+house,greetings,credit,card,not spam
+market,diplomat,winner,house,spam
+winner,transfer,market,chat,spam
+name,greetings,market,house,spam
+card,credit,diplomat,transfer,not spam
+greetings,house,diplomat,card,not spam
+winner,credit,card,chat,not spam
+house,winner,name,greetings,spam
